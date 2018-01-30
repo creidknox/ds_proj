@@ -1,0 +1,7 @@
+- Pandas is a dataframe module that allows you to access your data - columns, rows, can index - database in memory
+- .loc - selecting subportion of data
+- halton series - pseudorandom numbers, deterministic
+- data is backwards
+- queue_duration is how long we are playing an instrument in this period (not necessarily a week)
+	- continue to do that until we reach a week that we don't want to play the instument
+		When we were playing it (q_d > 0) and this week we are not, just add this time to the sequence (get all the beats for the instruments and add them to the sequence) and move ms (time in some) to the end of the block (q_d) plus the week (w_d) and resent q_d
