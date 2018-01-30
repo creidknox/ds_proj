@@ -96,6 +96,7 @@ while( sequence_fio.more() ) {
     position => instruments[instrument_index].buf[buffer_index].pos;  // set the position to the value of position
     gain => instruments[instrument_index].buf[buffer_index].gain;  // set the gain of this iteration of the instrument
     rate => instruments[instrument_index].buf[buffer_index].rate;  // set/get playback rate ( relative to file's natural speed ) - this appears to always be one in this example
+    <<< gain >>>;
 }
 
 // Add padding
