@@ -47,3 +47,27 @@ Violin G6	String	violin/violin_G6_025_forte_arco-normal.wav	1	1	28	0.5	90	100
 Violin B4	String	violin/violin_B4_025_forte_arco-normal.wav	1	1	28	0.5	50	100
 Violin B5	String	violin/violin_B5_025_forte_arco-normal.wav	1	1	28	0.5	75	100
 Violin B6	String	violin/violin_B6_025_forte_arco-normal.wav	1	1	28	0.6	90	100
+Bass F Mallet	Percussion	percussion/bass-drum__025_forte_bass-drum-mallet.wav	1	1	28	0	66	100
+Bass MF Mallet	Percussion	percussion/bass-drum__025_mezzo-forte_bass-drum-mallet.wav	1	1	28	0	33	100
+Bass MF Rute	Percussion	percussion/bass-drum__025_mezzo-forte_rute.wav	1	1	28	0	0	100
+Castanets	Percussion	percussion/castanets__025_mezzo-forte_struck-singly.wav	1	1	28	0	66	100
+Guiro	Percussion	percussion/guiro__025_mezzo-forte_struck-singly.wav	1	1	28	0	33	100
+Ratchet	Percussion	percussion/ratchet__025_forte_clean.wav	1	1	28	0	0	100
+Snare Drum FF	Percussion	percussion/snare-drum__025_fortissimo_with-snares.wav	1	1	28	0	66	100
+Snare Drum F	Percussion	percussion/snare-drum__025_forte_with-snares.wav	1	1	28	0	33	100
+Snare Drum MF	Percussion	percussion/snare-drum__025_mezzo-forte_with-snares.wav	1	1	28	0	0	100
+Tambourine FF	Percussion	percussion/tambourine__025_fortissimo_hand.wav	1	1	28	0	66	100
+Whip FF	Percussion	percussion/whip__025_fortissimo_struck-together.wav	1	1	28	0	66	100
+Whip F	Percussion	percussion/whip__025_forte_struck-together.wav	1	1	28	0	33	100
+Whip MF	Percussion	percussion/whip__025_mezzo-forte_struck-together.wav	1	1	28	0	0	100
+Woodblock	Percussion	percussion/woodblock__025_mezzo-forte_struck-singly.wav	1	1	28	0	0	100
+Bass F Mallet	Percussion	percussion/bass-drum__025_forte_bass-drum-mallet.wav	1	1	28	0.5	85	100
+Bass MF Rute	Percussion	percussion/bass-drum__025_mezzo-forte_rute.wav	1	1	28	0.5	50	100
+Castanets	Percussion	percussion/castanets__025_mezzo-forte_struck-singly.wav	1	1	28	0.5	85	100
+Guiro	Percussion	percussion/guiro__025_mezzo-forte_struck-singly.wav	1	1	28	0.5	70	100
+Ratchet	Percussion	percussion/ratchet__025_forte_clean.wav	1	1	28	0.5	50	100
+Snare Drum FF	Percussion	percussion/snare-drum__025_fortissimo_with-snares.wav	1	1	28	0.5	85	100
+Snare Drum MF	Percussion	percussion/snare-drum__025_mezzo-forte_with-snares.wav	1	1	28	0.5	50	100
+Whip FF	Percussion	percussion/whip__025_fortissimo_struck-together.wav	1	1	28	0.5	85	100
+Whip F	Percussion	percussion/whip__025_forte_struck-together.wav	1	1	28	0.5	70	100
+Woodblock	Percussion	percussion/woodblock__025_mezzo-forte_struck-singly.wav	1	1	28	0.5	50	100
