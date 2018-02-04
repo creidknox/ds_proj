@@ -38,9 +38,7 @@ Instrument instruments[128];
 
 // read instruments file
 while( instruments_fio.more() )
-{
-    //<<< "Instruments" >>>;
-    // read instrument index and filename
+{    // read instrument index and filename
     Std.atoi(instruments_fio.readLine()) => int instrument_index;
     instruments_fio.readLine() => string filename;
     filename.find("\r") => int return_match;
@@ -66,13 +64,12 @@ padding::ms => now;
 
 // read sequence from file
 while( sequence_fio.more() ) {
-    //<<< "Sequence" >>>;
     // Read the lines from the sequence file and assign to thes vars
-    Std.atoi(sequence_fio.readLine()) => int instrument_index; // 9, 3
-    Std.atoi(sequence_fio.readLine()) => int position; // 0, 0
-    Std.atof(sequence_fio.readLine()) => float gain; // 0.05, 0.1
-    Std.atof(sequence_fio.readLine()) => float rate; // seems like this is always 1.0
-    Std.atoi(sequence_fio.readLine()) => int milliseconds; // 0, 3
+    Std.atoi(sequence_fio.readLine()) => int instrument_index;
+    Std.atoi(sequence_fio.readLine()) => int position;
+    Std.atof(sequence_fio.readLine()) => float gain;
+    Std.atof(sequence_fio.readLine()) => float rate;
+    Std.atoi(sequence_fio.readLine()) => int milliseconds;
     <<< gain >>>;
     // wait duration
     if (milliseconds > 0)
@@ -89,14 +86,13 @@ while( sequence_fio.more() ) {
     }
 
     // choose buffer index
-    instruments[instrument_index].plays % instrument_buffers => int buffer_index;  // 0 % 2 = 0 (first iteration)
-    instruments[instrument_index].plays++;  // increment plays for instrument
+    instruments[instrument_index].plays % instrument_buffers => int buffer_index;
+    instruments[instrument_index].plays++;
 
     // play the instrument
-    position => instruments[instrument_index].buf[buffer_index].pos;  // set the position to the value of position
-    gain => instruments[instrument_index].buf[buffer_index].gain;  // set the gain of this iteration of the instrument
-    rate => instruments[instrument_index].buf[buffer_index].rate;  // set/get playback rate ( relative to file's natural speed ) - this appears to always be one in this example
-    <<< gain >>>;
+    position => instruments[instrument_index].buf[buffer_index].pos;
+    gain => instruments[instrument_index].buf[buffer_index].gain;
+    rate => instruments[instrument_index].buf[buffer_index].rate;
 }
 
 // Add padding
