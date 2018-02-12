@@ -1,0 +1,73 @@
+Name	Type	File	Tempo Offset	Min Var
+Cello F2	String	cello/cello_F2_025_forte_arco-normal.wav	0	0
+Cello F3	String	cello/cello_F3_025_forte_arco-normal.wav	0	33
+Cello F4	String	cello/cello_F4_025_forte_arco-normal.wav	0	66
+Cello A2	String	cello/cello_A2_025_forte_arco-normal.wav	0	0
+Cello A3	String	cello/cello_A3_025_forte_arco-normal.wav	0	33
+Cello A4	String	cello/cello_A4_025_forte_arco-normal.wav	0	66
+Cello C3	String	cello/cello_C3_025_forte_arco-normal.wav	0	0
+Cello C4	String	cello/cello_C4_025_forte_arco-normal.wav	0	33
+Cello C5	String	cello/cello_C5_025_forte_arco-normal.wav	0	66
+Cello G2	String	cello/cello_G2_025_forte_arco-normal.wav	0.5	50
+Cello G3	String	cello/cello_G3_025_forte_arco-normal.wav	0.5	65
+Cello G4	String	cello/cello_G4_025_forte_arco-normal.wav	0.5	80
+Cello B2	String	cello/cello_B2_025_forte_arco-normal.wav	0.5	50
+Cello B3	String	cello/cello_B3_025_forte_arco-normal.wav	0.5	65
+Cello B4	String	cello/cello_B4_025_forte_arco-normal.wav	0.5	80
+Cello D3	String	cello/cello_D3_025_forte_arco-normal.wav	0.5	50
+Cello D4	String	cello/cello_D4_025_forte_arco-normal.wav	0.5	65
+Cello D5	String	cello/cello_D5_025_forte_arco-normal.wav	0.5	80
+Trumpet F4	Brass	trumpet/trumpet_F4_025_forte_normal.wav	0	0
+Trumpet F5	Brass	trumpet/trumpet_F5_025_forte_normal.wav	0	33
+Trumpet F6	Brass	trumpet/trumpet_F6_025_forte_normal.wav	0	66
+Trumpet A4	Brass	trumpet/trumpet_A4_025_forte_normal.wav	0	0
+Trumpet A5	Brass	trumpet/trumpet_A5_025_forte_normal.wav	0	33
+Trumpet A6	Brass	trumpet/trumpet_A6_025_forte_normal.wav	0	66
+Trumpet C5	Brass	trumpet/trumpet_C5_025_forte_normal.wav	0	0
+Trumpet C6	Brass	trumpet/trumpet_C6_025_forte_normal.wav	0	33
+Trumpet C7	Brass	trumpet/trumpet_C7_025_forte_normal.wav	0	66
+Trumpet G4	Brass	trumpet/trumpet_G4_025_forte_normal.wav	0.5	50
+Trumpet G5	Brass	trumpet/trumpet_G5_025_forte_normal.wav	0.5	65
+Trumpet G6	Brass	trumpet/trumpet_G6_025_forte_normal.wav	0.5	80
+Trumpet B4	Brass	trumpet/trumpet_B4_025_forte_normal.wav	0.5	50
+Trumpet B5	Brass	trumpet/trumpet_B5_025_forte_normal.wav	0.5	65
+Trumpet B6	Brass	trumpet/trumpet_B6_025_forte_normal.wav	0.5	80
+Trumpet D5	Brass	trumpet/trumpet_D5_025_forte_normal.wav	0.5	50
+Trumpet D6	Brass	trumpet/trumpet_D6_025_forte_normal.wav	0.5	65
+Trumpet D7	Brass	trumpet/trumpet_D7_025_forte_normal.wav	0.5	80
+Flute F4	Wind	flute/flute_F4_025_forte_normal.wav	0	0
+Flute F5	Wind	flute/flute_F5_025_forte_normal.wav	0	33
+Flute F6	Wind	flute/flute_F6_025_forte_normal.wav	0	66
+Flute A4	Wind	flute/flute_A4_025_forte_normal.wav	0	0
+Flute A5	Wind	flute/flute_A5_025_forte_normal.wav	0	33
+Flute A6	Wind	flute/flute_A6_025_forte_normal.wav	0	66
+Flute C5	Wind	flute/flute_C5_025_forte_normal.wav	0	0
+Flute C6	Wind	flute/flute_C6_025_forte_normal.wav	0	33
+Flute C7	Wind	flute/flute_C7_025_forte_normal.wav	0	66
+Flute G4	Wind	flute/flute_G4_025_forte_normal.wav	0.5	50
+Flute G5	Wind	flute/flute_G5_025_forte_normal.wav	0.5	65
+Flute G6	Wind	flute/flute_G6_025_forte_normal.wav	0.5	80
+Flute B4	Wind	flute/flute_B4_025_forte_normal.wav	0.5	50
+Flute B5	Wind	flute/flute_B5_025_forte_normal.wav	0.5	65
+Flute B6	Wind	flute/flute_B6_025_forte_normal.wav	0.5	80
+Flute D5	Wind	flute/flute_D5_025_forte_normal.wav	0.5	50
+Flute D6	Wind	flute/flute_D6_025_forte_normal.wav	0.5	65
+Flute D7	Wind	flute/flute_D7_025_forte_normal.wav	0.5	80
+Bass F Mallet	Percussion	percussion/bass-drum__025_forte_bass-drum-mallet.wav	0	66
+Bass MF Mallet	Percussion	percussion/bass-drum__025_mezzo-forte_bass-drum-mallet.wav	0	33
+Bass MF Rute	Percussion	percussion/bass-drum__025_mezzo-forte_rute.wav	0	0
+Castanets	Percussion	percussion/castanets__025_mezzo-forte_struck-singly.wav	0	66
+Guiro	Percussion	percussion/guiro__025_mezzo-forte_struck-singly.wav	0	33
+Ratchet	Percussion	percussion/ratchet__025_forte_clean.wav	0	0
+Whip FF	Percussion	percussion/whip__025_fortissimo_struck-together.wav	0	66
+Whip F	Percussion	percussion/whip__025_forte_struck-together.wav	0	33
+Whip MF	Percussion	percussion/whip__025_mezzo-forte_struck-together.wav	0	0
+Woodblock	Percussion	percussion/woodblock__025_mezzo-forte_struck-singly.wav	0	0
+Bass F Mallet	Percussion	percussion/bass-drum__025_forte_bass-drum-mallet.wav	0.5	65
+Bass MF Rute	Percussion	percussion/bass-drum__025_mezzo-forte_rute.wav	0.5	50
+Castanets	Percussion	percussion/castanets__025_mezzo-forte_struck-singly.wav	0.5	80
+Guiro	Percussion	percussion/guiro__025_mezzo-forte_struck-singly.wav	0.5	65
+Ratchet	Percussion	percussion/ratchet__025_forte_clean.wav	0.5	50
+Whip FF	Percussion	percussion/whip__025_fortissimo_struck-together.wav0.51	80
+Whip F	Percussion	percussion/whip__025_forte_struck-together.wav	0.5	65
+Woodblock	Percussion	percussion/woodblock__025_mezzo-forte_struck-singly.wav	0.5	50

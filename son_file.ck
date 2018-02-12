@@ -1,5 +1,5 @@
 2000 => int padding;
-2 => int instrument_buffers;
+1 => int instrument_buffers;
 me.sourceDir() => string base_dir;
 
 // normalize base directory
@@ -70,9 +70,9 @@ while( sequence_fio.more() ) {
     Std.atof(sequence_fio.readLine()) => float gain;
     Std.atof(sequence_fio.readLine()) => float rate;
     Std.atoi(sequence_fio.readLine()) => int milliseconds;
-    <<< gain >>>;
+
     // wait duration
-    if (milliseconds > 0)
+    if (milliseconds >= 0)
     {
         /*
             This seems to be where it actually plays
@@ -91,8 +91,10 @@ while( sequence_fio.more() ) {
 
     // play the instrument
     position => instruments[instrument_index].buf[buffer_index].pos;
+    //0 => instruments[instrument_index].buf[buffer_index].pos;
     gain => instruments[instrument_index].buf[buffer_index].gain;
     rate => instruments[instrument_index].buf[buffer_index].rate;
+    //1 => instruments[instrument_index].buf[buffer_index].rate;
 }
 
 // Add padding
