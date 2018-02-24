@@ -1,0 +1,13 @@
+Name	Type	File	Tempo Offset	Min Var
+Cello D3	String	cello/cello_D3_1_forte_arco-normal.wav	0	0
+Cello D4	String	cello/cello_D4_1_forte_arco-normal.wav	0	0
+Cello D5	String	cello/cello_D5_1_forte_arco-normal.wav	0	0
+Trombone A3	Brass	trombone/trombone_A3_1_forte_normal.wav	0	0
+Trombone A4	Brass	trombone/trombone_A4_1_forte_normal.wav	0	0
+Trombone A5	Brass	trombone/trombone_A5_1_forte_normal.wav	0	0
+Guitar F2	Percussion	guitar/guitar_F2_very-long_forte_normal.wav	0	0
+Guitar F3	Percussion	guitar/guitar_F3_very-long_forte_normal.wav	0	0
+Guitar F4	Percussion	guitar/guitar_F4_very-long_forte_normal.wav	0	0
+Flute C4	Wind	flute/flute_C4_1_forte_normal.wav	0	0
+Flute C5	Wind	flute/flute_C5_1_forte_normal.wav	0	0
+Flute C6	Wind	flute/flute_C6_1_forte_normal.wav	0	0

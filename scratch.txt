@@ -1,0 +1,79 @@
+Name	Type	File	From Tempo	To Tempo	Tempo Phase	Tempo Offset	Min Var	Max Var
+Clarinet C4	Wind	clarinet/clarinet_C4_025_forte_normal.wav	1	1	28	0	0	100
+Clarinet C5	Wind	clarinet/clarinet_C5_025_forte_normal.wav	1	1	28	0	33	100
+Clarinet C6	Wind	clarinet/clarinet_C6_025_forte_normal.wav	1	1	28	0	66	100
+Clarinet E4	Wind	clarinet/clarinet_E4_025_forte_normal.wav	1	1	28	0	0	100
+Clarinet E5	Wind	clarinet/clarinet_E5_025_forte_normal.wav	1	1	28	0	33	100
+Clarinet E6	Wind	clarinet/clarinet_E6_025_forte_normal.wav	1	1	28	0	66	100
+Clarinet G4	Wind	clarinet/clarinet_G4_025_forte_normal.wav	1	1	28	0	0	100
+Clarinet G5	Wind	clarinet/clarinet_G5_025_forte_normal.wav	1	1	28	0	33	100
+Clarinet E4	Wind	clarinet/clarinet_E4_025_forte_normal.wav	1	1	28	0.5	50	100
+Clarinet E5	Wind	clarinet/clarinet_E5_025_forte_normal.wav	1	1	28	0.5	65	100
+Clarinet E6	Wind	clarinet/clarinet_E6_025_forte_normal.wav	1	1	28	0.5	80	100
+Clarinet G4	Wind	clarinet/clarinet_G4_025_forte_normal.wav	1	1	28	0.5	50	100
+Clarinet G5	Wind	clarinet/clarinet_G5_025_forte_normal.wav	1	1	28	0.5	75	100
+Clarinet B4	Wind	clarinet/clarinet_B4_025_forte_normal.wav	1	1	28	0.5	50	100
+Clarinet B5	Wind	clarinet/clarinet_B5_025_forte_normal.wav	1	1	28	0.5	75	100
+Trumpet C4	Brass	trumpet/trumpet_C4_025_forte_normal.wav	1	1	28	0	0	100
+Trumpet C5	Brass	trumpet/trumpet_C5_025_forte_normal.wav	1	1	28	0	33	100
+Trumpet C6	Brass	trumpet/trumpet_C6_025_forte_normal.wav	1	1	28	0	66	100
+Trumpet E4	Brass	trumpet/trumpet_E4_025_forte_normal.wav	1	1	28	0	0	100
+Trumpet E5	Brass	trumpet/trumpet_E5_025_forte_normal.wav	1	1	28	0	0	100
+Trumpet E6	Brass	trumpet/trumpet_E6_025_forte_normal.wav	1	1	28	0	66	100
+Trumpet G4	Brass	trumpet/trumpet_G4_025_forte_normal.wav	1	1	28	0	0	100
+Trumpet G5	Brass	trumpet/trumpet_G5_025_forte_normal.wav	1	1	28	0	33	100
+Trumpet E4	Brass	trumpet/trumpet_E4_025_forte_normal.wav	1	1	28	0.5	50	100
+Trumpet E5	Brass	trumpet/trumpet_E5_025_forte_normal.wav	1	1	28	0.5	65	100
+Trumpet E6	Brass	trumpet/trumpet_E6_025_forte_normal.wav	1	1	28	0.5	80	100
+Trumpet G4	Brass	trumpet/trumpet_G4_025_forte_normal.wav	1	1	28	0.5	50	100
+Trumpet G5	Brass	trumpet/trumpet_G5_025_forte_normal.wav	1	1	28	0.5	75	100
+Trumpet B4	Brass	trumpet/trumpet_B4_025_forte_normal.wav	1	1	28	0.5	50	100
+Trumpet B5	Brass	trumpet/trumpet_B5_025_forte_normal.wav	1	1	28	0.5	75	100
+Violin C4	String	violin/violin_C4_025_forte_arco-normal.wav	1	1	28	0	0	100
+Violin C5	String	violin/violin_C5_025_forte_arco-normal.wav	1	1	28	0	33	100
+Violin C6	String	violin/violin_C6_025_forte_arco-normal.wav	1	1	28	0	66	100
+Violin E4	String	violin/violin_E4_025_forte_arco-normal.wav	1	1	28	0	0	100
+Violin E5	String	violin/violin_E5_025_forte_arco-normal.wav	1	1	28	0	0	100
+Violin E6	String	violin/violin_E6_025_forte_arco-normal.wav	1	1	28	0	66	100
+Violin G4	String	violin/violin_G4_025_forte_arco-normal.wav	1	1	28	0	0	100
+Violin G5	String	violin/violin_G5_025_forte_arco-normal.wav	1	1	28	0	33	100
+Violin G6	String	violin/violin_G6_025_forte_arco-normal.wav	1	1	28	0	66	100
+Violin E4	String	violin/violin_E4_025_forte_arco-normal.wav	1	1	28	0.5	50	100
+Violin E5	String	violin/violin_E5_025_forte_arco-normal.wav	1	1	28	0.5	65	100
+Violin E6	String	violin/violin_E6_025_forte_arco-normal.wav	1	1	28	0.5	80	100
+Violin G4	String	violin/violin_G4_025_forte_arco-normal.wav	1	1	28	0.5	50	100
+Violin G5	String	violin/violin_G5_025_forte_arco-normal.wav	1	1	28	0.5	75	100
+Violin G6	String	violin/violin_G6_025_forte_arco-normal.wav	1	1	28	0.5	90	100
+Violin B4	String	violin/violin_B4_025_forte_arco-normal.wav	1	1	28	0.5	50	100
+Violin B5	String	violin/violin_B5_025_forte_arco-normal.wav	1	1	28	0.5	75	100
+Violin B6	String	violin/violin_B6_025_forte_arco-normal.wav	1	1	28	0.6	90	100
+Bass F Mallet	Percussion	percussion/bass-drum__025_forte_bass-drum-mallet.wav	1	1	28	0	66	100
+Bass MF Mallet	Percussion	percussion/bass-drum__025_mezzo-forte_bass-drum-mallet.wav	1	1	28	0	33	100
+Bass MF Rute	Percussion	percussion/bass-drum__025_mezzo-forte_rute.wav	1	1	28	0	0	100
+Castanets	Percussion	percussion/castanets__025_mezzo-forte_struck-singly.wav	1	1	28	0	66	100
+Guiro	Percussion	percussion/guiro__025_mezzo-forte_struck-singly.wav	1	1	28	0	33	100
+Ratchet	Percussion	percussion/ratchet__025_forte_clean.wav	1	1	28	0	0	100
+Snare Drum FF	Percussion	percussion/snare-drum__025_fortissimo_with-snares.wav	1	1	28	0	66	100
+Snare Drum F	Percussion	percussion/snare-drum__025_forte_with-snares.wav	1	1	28	0	33	100
+Snare Drum MF	Percussion	percussion/snare-drum__025_mezzo-forte_with-snares.wav	1	1	28	0	0	100
+Tambourine FF	Percussion	percussion/tambourine__025_fortissimo_hand.wav	1	1	28	0	66	100
+Tambourine F	Percussion	percussion/tambourine__025_forte_hand.wav	1	1	28	0	33	100
+Whip FF	Percussion	percussion/whip__025_fortissimo_struck-together.wav	1	1	28	0	66	100
+Whip F	Percussion	percussion/whip__025_forte_struck-together.wav	1	1	28	0	33	100
+Whip MF	Percussion	percussion/whip__025_mezzo-forte_struck-together.wav	1	1	28	0	0	100
+Woodblock	Percussion	percussion/woodblock__025_mezzo-forte_struck-singly.wav	1	1	28	0	0	100
+Bass F Mallet	Percussion	percussion/bass-drum__025_forte_bass-drum-mallet.wav	1	1	28	0.5	85	100
+Bass MF Mallet	Percussion	percussion/bass-drum__025_mezzo-forte_bass-drum-mallet.wav	1	1	28	0.5	70	100
+Bass MF Rute	Percussion	percussion/bass-drum__025_mezzo-forte_rute.wav	1	1	28	0.5	50	100
+Castanets	Percussion	percussion/castanets__025_mezzo-forte_struck-singly.wav	1	1	28	0.5	85	100
+Guiro	Percussion	percussion/guiro__025_mezzo-forte_struck-singly.wav	1	1	28	0.5	70	100
+Ratchet	Percussion	percussion/ratchet__025_forte_clean.wav	1	1	28	0.5	50	100
+Snare Drum FF	Percussion	percussion/snare-drum__025_fortissimo_with-snares.wav	1	1	28	0.5	85	100
+Snare Drum F	Percussion	percussion/snare-drum__025_forte_with-snares.wav	1	1	28	0.5	70	100
+Snare Drum MF	Percussion	percussion/snare-drum__025_mezzo-forte_with-snares.wav	1	1	28	0.5	50	100
+Tambourine FF	Percussion	percussion/tambourine__025_fortissimo_hand.wav	1	1	28	0.5	85	100
+Tambourine F	Percussion	percussion/tambourine__025_forte_hand.wav	1	1	28	0.5	70	100
+Whip FF	Percussion	percussion/whip__025_fortissimo_struck-together.wav	1	1	28	0.5	85	100
+Whip F	Percussion	percussion/whip__025_forte_struck-together.wav	1	1	28	0.5	70	100
+Whip MF	Percussion	percussion/whip__025_mezzo-forte_struck-together.wav	1	1	28	0.5	50	100
+Woodblock	Percussion	percussion/woodblock__025_mezzo-forte_struck-singly.wav	1	1	28	0.5	50	100
